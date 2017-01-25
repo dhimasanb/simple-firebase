@@ -26,7 +26,8 @@ public class MainActivity extends AppCompatActivity {
         mFirebaseBtn.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
-                
+
+                mDatabase.child("Name").setValue("Dhimas Ganteng");
             }
         });
     }
