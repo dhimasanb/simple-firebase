@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "556235699263",
+    "firebase_url": "https://fir-tutorials-6d21e.firebaseio.com",
+    "project_id": "fir-tutorials-6d21e",
+    "storage_bucket": "fir-tutorials-6d21e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556235699263:android:806043e94e01749b",
+        "android_client_info": {
+          "package_name": "ganteng.dhimas.firebasetutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556235699263-ek1fded2ecd78f78lpev3p95ohe0mdqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ganteng.dhimas.firebasetutorials",
+            "certificate_hash": "AF4C914DF0849B16404D95CB0106BB92FCD0FB92"
+          }
+        },
+        {
+          "client_id": "556235699263-p84kuf990v6hn2tsrk0hj3i614515maj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq4MmUHjXCvqhx63pzMhnOF3OYwRTS0k0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556235699263-p84kuf990v6hn2tsrk0hj3i614515maj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
