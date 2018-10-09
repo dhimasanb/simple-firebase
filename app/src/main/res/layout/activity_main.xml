@@ -23,7 +23,8 @@
 
     <Button
         android:text="Click to Change"
-        android:layout_width="match_parent"
+        android:layout_width="40dp"
+        android:gravity="center"
         android:layout_height="wrap_content"
         android:id="@+id/firebase_btn"
         android:layout_below="@+id/name_field"
